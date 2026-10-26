@@ -13,7 +13,7 @@ TinyGPSPlus gps;
 HardwareSerial gpsSerial(2);
 HardwareSerial modem(1);
 
-const char PHONE_NUMBER[] = "+918500750375";
+const char PHONE_NUMBER[] = "+91XXXXXXXXXX";
 
 // GPS quality settings
 const int REQUIRED_SAMPLES = 10;
